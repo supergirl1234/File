@@ -22,6 +22,7 @@ public class InputAndOut2 {
 
                 out.write(buff);/*将buff中的数据写入file2中*/
 
+
             }
 
         } catch (IOException e) {
